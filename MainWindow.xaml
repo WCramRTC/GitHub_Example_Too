@@ -15,5 +15,15 @@
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
+        <ListView d:ItemsSource="{d:SampleData ItemCount=5}" Margin="440,52,56,93">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                    <GridViewColumn/>
+                    <GridViewColumn/>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
     </Grid>
 </Window>
