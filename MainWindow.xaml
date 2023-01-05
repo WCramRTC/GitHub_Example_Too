@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:GitHub_Example"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Background="#FF90CBEE">
         <Button Content="Button" HorizontalAlignment="Left" Margin="360,217,0,0" VerticalAlignment="Top"/>
         <RichTextBox Margin="41,52,546,197">
             <FlowDocument>
