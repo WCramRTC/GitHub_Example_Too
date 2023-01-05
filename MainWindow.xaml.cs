@@ -24,7 +24,7 @@ namespace GitHub_Example
         {
             InitializeComponent();
 
-            // Hi Class
+            // Hi Procrammers
         }
     }
 }
